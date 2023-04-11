@@ -3,7 +3,7 @@ const db=require('mysql2');
 const dbservice=db.createConnection({
     host:"localhost",
     user:"root",
-    password:"Satyam@123",
-    database:"empdata"
+    password:"Sanjaybhai4581",
+    database:"sanjaydb1"
 })
 module.exports=dbservice;
